@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # poemgen.py - Allison Nelson
 # a simple poetry generator that makes "poems" based on parts of speech
 
@@ -7,7 +9,7 @@
 #for word in nounfile:
 #	nouns.append(word.rstrip('\n'))
 
-nouns = ["flower","tree","child","sun","moon","darkness","light","rain","beach","earth"]; #1	
+nouns = ["flower","tree","child","sun","moon","darkness","light","rain","beach","earth","dog","cat","lover","life","love","heart","fish","poetry","music","happiness","peace","serenity","quiet","blossoms","blooms","madness","anger","sadness","dance","books"]; #1	
 verbs = ["feel","is","smell","touch","taste","smile","wave","run","live"]; #2
 articles = ["the","a"]; #3
 prepositions = ["on","with","under","in","to","into"]; #4
