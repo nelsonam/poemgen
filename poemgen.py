@@ -2,11 +2,12 @@
 # a simple poetry generator that makes "poems" based on parts of speech
 
 
-nouns = []
-nounfile = open("nounlist.txt")
-for word in nounfile:
-	nouns.append(word.rstrip('\n'))
-	
+#nouns = []
+#nounfile = open("nounlist.txt")
+#for word in nounfile:
+#	nouns.append(word.rstrip('\n'))
+
+nouns = ["flower","tree","child","sun","moon","darkness","light","rain","beach","earth"]; #1	
 verbs = ["feel","is","smell","touch","taste","smile","wave","run","live"]; #2
 articles = ["the","a"]; #3
 prepositions = ["on","with","under","in","to","into"]; #4
