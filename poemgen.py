@@ -17,7 +17,7 @@ adjectives = ["beautiful","shining","slow","lovely","lively","nice","sad"]; #5
 gerunds = ["leaping","growing","loving","shaking","making","living","being","thinking","doing","building","singing"]; #6
 conjunctions = ["and","or"]; #7
 
-#each number refers to a part of speech listed above, commas are interpreted literally, numbers in parentheses are optional
+#each number refers to a part of speech listed above, commas are interpreted literally
 sentence_structures = ["35124351","314351","64351","63514351,676","3517351,6","6351,676","3512","3124351"];
 
 from random import choice;
