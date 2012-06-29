@@ -10,7 +10,7 @@
 #	nouns.append(word.rstrip('\n'))
 
 nouns = ["flower","tree","child","sun","moon","darkness","light","rain","beach","earth","dog","cat","lover","life","love","heart","fish","poetry","music","happiness","peace","serenity","quiet","blossoms","blooms","madness","anger","sadness","dance","books"] #1	
-verbs = ["feel","is","smell","touch","taste","smile","wave","run","live"] #2
+verbs = ["feel","is","smell","touch","taste","smile","wave","run","live","breathe","jump","caress","love","kiss","hear","hold"] #2
 articles = ["the","a"] #3
 prepositions = ["on","with","under","in","to","into"] #4
 adjectives = ["beautiful","shining","slow","lovely","lively","nice","sad"] #5
